@@ -1,7 +1,7 @@
 package com.example.simplejavaapi.web;
 
 import com.example.simplejavaapi.domain.Country;
-import com.example.simplejavaapi.web.service.CountriesService;
+import com.example.simplejavaapi.service.CountriesService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 

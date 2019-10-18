@@ -1,4 +1,4 @@
-package com.example.simplejavaapi.web.service;
+package com.example.simplejavaapi.service;
 
 import com.example.simplejavaapi.domain.Country;
 
